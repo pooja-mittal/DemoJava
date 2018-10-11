@@ -8,7 +8,7 @@ public class Demo1 {
 
 		System.out.println("added more line by git and continuess ");
 
-		System.out.println("this line added by git and now i added by eclipse ");
+		System.out.println("");
 
 			
 
